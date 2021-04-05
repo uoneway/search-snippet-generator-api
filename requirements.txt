@@ -1,0 +1,22 @@
+
+# pip install flask
+# pip install flask_restx
+# pip install gunicorn
+# pip install newspaper3k
+# pip install varname
+Flask
+flask-restx
+gunicorn
+newspaper3k
+varname
+
+# https://github.com/DerwenAI/pytextrank/blob/main/requirements.txt
+graphviz >= 0.13
+icecream >= 2.1
+networkx >= 2.0
+spacy >= 3.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz  # python -m spacy download en_core_web_sm
+
+#summrizers
+transformers>=4
+torch
