@@ -1,0 +1,3 @@
+[submodule "submodules/summarizers"]
+	path = submodules/summarizers
+	url = https://github.com/uoneway/summarizers.git
